@@ -10,7 +10,7 @@ A key challenge for news service websites is to help users to find news articles
 
 ## Objective:
 To build a hybrid-filtering personalized news articles recommendation product which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests - **Collaborative filtering** and content similarity of the article and user’s tweets - **Content-based filtering**.
-This system can be very helpful to Online News Providers to target right news articles to right users.
+This system can be very helpful to Online News Providers to target right news articles to the right users.
 
 ## But why Twiiter?
 <p align="center">
