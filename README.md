@@ -26,7 +26,7 @@ This system can be very helpful to Online News Providers to target right news ar
 Based on user’s tweets we can know user’s interests and can recommend personalized news articles which user would share on Twitter. This can increase news articles and news service’s popularity.
 
 ## Fetch twitter data for users:
-As a first step, the engine identifies readers with similar news interests based on their behavior of retweeting articles posted on Twitter. **Tweepy** is used to scrape the twitter.
+As a first step, the engine identifies readers with similar news interests based on their behavior of retweeting articles posted on Twitter. **Tweepy** is used to scrape the twitter
 
 The flow is as follows:
   1. Fetch users who retweet given News handle's tweets - New York Times, Washington Post and Wall Street Journal. We identify them as  active news readers.
